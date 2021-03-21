@@ -19,3 +19,5 @@ If you use noip, how to setup a proper dns?
 I assume you run the server on your computer or a server, these has a specific ip, when creating a DNS on noip there is an option to link the dns to your own IP so when the client connects to the DNS it redirects to your Server/Computer IP from where you run the server.
 
 I left some comments in the code, they are in romanian so I am not so sure if it helps, but I am really sure someone with basic knowledge in how to setup servers can use this to run one. You can use this code as a foundation of future private server projects. Good luck!
+
+![image](https://user-images.githubusercontent.com/49493490/111917405-7fd84f80-8a88-11eb-96ad-a1b540e626a2.png)
