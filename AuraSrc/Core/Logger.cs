@@ -28,12 +28,12 @@ namespace PaulModz.Core
                     break;
 
                 case DefCon.WARN:
-                    Console.WriteLine($"[Warning] " + text, Color.Red);
+                    Console.WriteLine($"[Avertizare] " + text, Color.Red);
                     break;
 
 
                 case DefCon.ERROR:
-                    Console.WriteLine($"[Error] " + text, Color.DarkRed);
+                    Console.WriteLine($"[Eroare] " + text, Color.DarkRed);
                     break;
             }
         }
