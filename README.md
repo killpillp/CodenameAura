@@ -1,5 +1,7 @@
 # CodenameAura
 
+Codename_Aura is the official Pre-Alpha source code of the old PaulModz Royale Server, I used this codename to differentiate other Versions of this source code.
+I will not release the full source code, fixed and improved one unfortunately, that one is in Node JS, but I consider this one could do a great job for developers to use as a base.
 An old Clash Royale Emulator/Server whatsoever, it is incomplete, don't dm me for anything, I will not help, yet, if you know how to use it, then make sure you are going to improve it, this is why I leave this project to the public. This is not the full source code, it is in alpha state.
 
 I have no patched apk sorry. 
